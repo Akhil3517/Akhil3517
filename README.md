@@ -31,8 +31,11 @@
 ### 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,vue,nodejs,express,mongodb,firebase,git,github,vscode,python,java,c,cpp,tailwind,bootstrap,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,python,java,tailwind" />
+<img src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-884x1024.png" alt="React Native" width="48" height="48" />
+
 </p>
+
 
 ---
 
