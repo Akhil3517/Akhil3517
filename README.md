@@ -18,7 +18,7 @@
 ### 🧠 About Me
 
 > I’m a passionate **Full Stack Developer** and **AI/ML enthusiast** exploring how technology can create smarter, user-friendly, and scalable systems.  
-> I love turning ideas into real-world projects — from web platforms to AI-integrated applications.
+> I love turning ideas into real-world projects from web platforms to AI-integrated applications.
 
 - 🔭 Currently building **AI-integrated web apps** using **MERN stack + Gemini/OpenAI**
 - 🌱 Exploring **agentic AI**, **automation workflows**, and **backend optimization**
