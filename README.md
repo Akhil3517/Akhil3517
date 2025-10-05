@@ -24,7 +24,8 @@
 - 🌱 Exploring **agentic AI**, **automation workflows**, and **backend optimization**
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Firebase, or AI integrations**
 - 🎯 Goals: Build impactful software & contribute to open-source projects
-- ⚡ Fun fact: I love hackathons — 2nd place at Krithoathon 3.0 & 4th in a DSA contest!
+- ⚡ Fun fact: My favorite bug is the one that teaches me something new.
+
 
 ---
 
